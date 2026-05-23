@@ -14,6 +14,6 @@ Se usó para integrar el servicio externo PayPal con la interfaz interna de la t
 ## Observer - Notificaciones
 Se usó para notificar automáticamente a EmailNotificationObserver, InventoryObserver y AdminNotificationObserver cuando se confirma una compra mediante confirmarOrden().
 
-![Salida en consola](imagenes/Main.png)
+![Salida en consola](Imagenes/Main.png)
 
 MarkDown
